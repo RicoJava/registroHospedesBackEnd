@@ -36,6 +36,7 @@ public class Application {
 			System.out.println(array[i]);
 			}
 		}
+        System.out.println("MODIFICAÇÃO DE TESTE EM GIT")
 		}	
 	}
 }
